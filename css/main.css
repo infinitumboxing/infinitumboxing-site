@@ -101,21 +101,56 @@ details p{color:var(--mute);margin:8px 0 0}
 .facts strong{display:block;font:italic 800 1.5rem "Barlow Condensed",Impact,sans-serif;text-transform:uppercase;margin-bottom:4px}
 
 /* trust section: certificates / payments / shipping */
+
 .trust-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:32px}
+
 @media(max-width:900px){.trust-cols{grid-template-columns:1fr}}
+
 .trust-col h3{text-align:center;font-size:1.15rem;margin-bottom:18px}
-.trust-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-.trust-grid .badge{aspect-ratio:3/2;background:#fff;border:1px solid var(--line);border-radius:6px;display:grid;place-items:center;padding:10px;opacity:0;transform:translateY(16px);transition:box-shadow .2s,transform .35s ease,opacity .35s ease}
-.trust-grid .badge.show{opacity:1;transform:translateY(0)}
-.trust-grid .badge:hover{box-shadow:0 10px 22px rgba(17,19,24,.1);transform:translateY(-2px)}
-.trust-grid .badge:nth-child(1){transition-delay:0s}
-.trust-grid .badge:nth-child(2){transition-delay:.08s}
-.trust-grid .badge:nth-child(3){transition-delay:.16s}
-.trust-grid .badge:nth-child(4){transition-delay:.24s}
-.trust-grid .badge:nth-child(5){transition-delay:.32s}
-.trust-grid .badge:nth-child(6){transition-delay:.4s}
-@media(prefers-reduced-motion:reduce){.trust-grid .badge{opacity:1;transform:none;transition:none}}
-.trust-grid .badge img{width:100%;height:100%;object-fit:contain}
+
+.trust-grid{display:block}
+
+.trust-grid .badge{
+  width:100%;
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:6px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:20px;
+  box-sizing:border-box;
+  opacity:0;
+  transform:translateY(16px);
+  transition:box-shadow .2s,transform .35s ease,opacity .35s ease;
+  overflow:hidden;
+}
+
+.trust-grid .badge.show{
+  opacity:1;
+  transform:translateY(0);
+}
+
+.trust-grid .badge:hover{
+  box-shadow:0 10px 22px rgba(17,19,24,.1);
+  transform:translateY(-2px);
+}
+
+.trust-grid .badge img{
+  width:100%;
+  height:auto;
+  max-width:100%;
+  object-fit:contain;
+  display:block;
+}
+
+@media(prefers-reduced-motion:reduce){
+  .trust-grid .badge{
+    opacity:1;
+    transform:none;
+    transition:none;
+  }
+}
 
 /* dark quality/workflow band with image+caption items */
 .quality-band{background:var(--ink);color:#fff}
