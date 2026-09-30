@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/4082_m5umttjj.css","style"]
+:HL["/_next/static/media/barlow_400-s.p.2g-m-43w4inzo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/barlow_500-s.p.1e42q6h-am56h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/barlow_600-s.p.20ymm9zt6h9oi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/barlow_700-s.p.3vb5yshewhzs1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/barlow_condensed_500-s.p.3wun_rgcl0ums.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/barlow_condensed_600-s.p.289y3avl9x-vx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/barlow_condensed_700-s.p.21s4tc4km7afu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/barlow_condensed_800-s.p.3lg-gfem2skt4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"product","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"double-end-ball-6","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5YNBd0kaT8E3Ti36aWeqG"}
