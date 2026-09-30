@@ -30,9 +30,9 @@
     if(en.isIntersecting){en.target.classList.add("show");io.unobserve(en.target);}
    });
   },{threshold:.15,rootMargin:"0px 0px -40px 0px"});
-  document.querySelectorAll(".reveal").forEach(function(el){io.observe(el);});
+  document.querySelectorAll(".reveal,.trust-grid .badge").forEach(function(el){io.observe(el);});
  }else{
-  document.querySelectorAll(".reveal").forEach(function(el){el.classList.add("show");});
+  document.querySelectorAll(".reveal,.trust-grid .badge").forEach(function(el){el.classList.add("show");});
  }
 
  var yr=document.getElementById("yr");
