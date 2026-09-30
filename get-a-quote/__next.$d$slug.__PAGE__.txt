@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js","/_next/static/chunks/36aae5ogbpeaa.js"],""]
+3:I[98216,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js","/_next/static/chunks/36aae5ogbpeaa.js"],"QuoteRequestForm"]
+4:I[97367,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js"],"MetadataBoundary"]
+8:X
+20:X
+20:C
+0:{"buildId":"5YNBd0kaT8E3Ti36aWeqG","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"content-page","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Request a wholesale boxing equipment quote\",\"description\":\"Request pricing for boxing equipment, MMA wear, private-label production or OEM projects. Share your product, quantity and destination with our Sialkot team.\",\"url\":\"https://infinitumboxing.online/get-a-quote/\"}"}}],null,["$","section",null,{"className":"content-hero","children":["$","div",null,{"className":"site-container","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}],["$","span",null,{"children":"Request a wholesale boxing equipment quote"}]]}],["$","span",null,{"className":"eyebrow","children":"START A CONVERSATION / WHOLESALE ENQUIRIES"}],["$","h1",null,{"className":"page-title","children":"Request a wholesale boxing equipment quote"}],["$","p",null,{"className":"page-description","children":"Tell us what you are sourcing. Product, quantity, destination and branding details help us prepare a relevant quotation."}]]}]}],["$","div",null,{"className":"content-body site-container quote-layout","children":[["$","div",null,{"className":"quote-form-copy","children":[["$","span",null,{"className":"eyebrow","children":"WHOLESALE / PRIVATE LABEL / OEM"}],["$","h2",null,{"children":"Start with the gear."}],["$","p",null,{"children":"Tell us what you are buying, where it is going and what the finished product needs to do. Your form stays in this browser until you choose to open the WhatsApp draft."}],["$","div",null,{"className":"quote-points","children":[["$","p",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]," Product-specific pricing discussion"]}],["$","p",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]," Branding and packaging requirements"]}],["$","p",null,{"children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]," Sample and production questions"]}]]}],["$","a",null,{"className":"text-link","href":"mailto:infinitumboxing@gmail.com","children":["Prefer email? Write to us ",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-up-right","children":[["$","path","1tivn9",{"d":"M7 7h10v10"}],["$","path","1vkiza",{"d":"M7 17 17 7"}],"$undefined"]}]]}]]}],["$","div",null,{"children":["$","$L3",null,{}]}]]}],false,false]}],[["$","script","script-0",{"src":"/_next/static/chunks/36aae5ogbpeaa.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#171917"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Request a wholesale boxing equipment quote | Infinitum Boxing"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]}],"$L1c"]}],"isPartial":"$@1d","staleTime":"$8","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$8","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@21","rootVaryParams":null,"needsRuntimeRequest":"$@22"}
+23:I[27201,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js"],"IconMark"]
+24:I[39756,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js"],"default"]
+25:I[37457,["/_next/static/chunks/3fpozyxwxcs15.js","/_next/static/chunks/2py27mxnb3pyy.js","/_next/static/chunks/1s1bqi9ylggj8.js"],"default"]
+6:null
+b:["$","meta","1",{"name":"description","content":"Request pricing for boxing equipment, MMA wear, private-label production or OEM projects. Share your product, quantity and destination with our Sialkot team."}]
+c:["$","meta","2",{"name":"application-name","content":"Infinitum Boxing"}]
+d:["$","meta","3",{"name":"robots","content":"index, follow"}]
+e:["$","link","4",{"rel":"canonical","href":"https://infinitumboxing.online/get-a-quote/"}]
+f:["$","meta","5",{"property":"og:title","content":"Request a wholesale boxing equipment quote"}]
+10:["$","meta","6",{"property":"og:description","content":"Request pricing for boxing equipment, MMA wear, private-label production or OEM projects. Share your product, quantity and destination with our Sialkot team."}]
+11:["$","meta","7",{"property":"og:url","content":"https://infinitumboxing.online/get-a-quote/"}]
+12:["$","meta","8",{"property":"og:image","content":"https://infinitumboxing.online/images/site/og-image.webp"}]
+13:["$","meta","9",{"property":"og:image:alt","content":"Request a wholesale boxing equipment quote"}]
+14:["$","meta","10",{"property":"og:type","content":"website"}]
+15:["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}]
+16:["$","meta","12",{"name":"twitter:title","content":"Request a wholesale boxing equipment quote"}]
+17:["$","meta","13",{"name":"twitter:description","content":"Request pricing for boxing equipment, MMA wear, private-label production or OEM projects. Share your product, quantity and destination with our Sialkot team."}]
+18:["$","meta","14",{"name":"twitter:image","content":"https://infinitumboxing.online/images/site/og-image.webp"}]
+19:["$","meta","15",{"name":"twitter:image:alt","content":"Request a wholesale boxing equipment quote"}]
+1a:["$","link","16",{"rel":"icon","href":"/images/site/favicon.webp"}]
+1b:["$","$L23","17",{}]
+1c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1e:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+22:true
+8:300
+8:C
+21:0
+1d:"$undefined"
+1f:"$undefined"
+7:"$undefined"
