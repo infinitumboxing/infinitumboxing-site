@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta name="referrer" content="no-referrer">
+  <meta name="theme-color" content="#f6f7f8">
+  <title>Request blocked</title>
+  <style>
+    :root{color-scheme:light;--ink:#222;--muted:#666;--line:#ddd;--mono:Arial,Helvetica,sans-serif}*{box-sizing:border-box}html,body{min-height:100%;margin:0}body{background:#fff;color:var(--ink);font:14px/1.55 Arial,Helvetica,sans-serif;-webkit-font-smoothing:antialiased}.topline{height:3px;background:#333}.shell{min-height:100vh;display:flex;flex-direction:column}.main{flex:1;width:min(960px,calc(100% - 48px));margin:0 auto;padding:88px 0 60px}.content{max-width:720px}h1{margin:0 0 18px;font-size:24px;line-height:1.3;font-weight:600}.lede{margin:0;color:#333;font-size:14px;line-height:1.65}.footnote{margin:22px 0 0;color:#777;font-size:12px}.footer{width:min(960px,calc(100% - 48px));min-height:52px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:14px;border-top:1px solid var(--line);color:#666;font-size:12px}.footer code{font:12px Arial,Helvetica,sans-serif;color:#444}@media(max-width:560px){.main{width:calc(100% - 36px);padding-top:58px}.footer{width:calc(100% - 36px);font-size:11px}.footer code{font-size:11px}}
+  </style>
+</head>
+<body>
+  <div class="topline" aria-hidden="true"></div>
+  <div class="shell">
+    <main class="main">
+      <section class="content" aria-labelledby="page-title">
+        <h1 id="page-title">Access Denied</h1>
+        <p class="lede">You don't have permission to access this resource on this server. The request was denied by the site's security policy. If you believe this is an error, contact the site administrator and provide the reference number.</p>
+        <p class="footnote">Internal policy evaluation failed. Request terminated.</p>
+      </section>
+    </main>
+    <footer class="footer"><span id="footer-reference">Reference —</span><code>/workshop/admin</code></footer>
+  </div>
+  <script>
+    "use strict";
+    const bytes=crypto.getRandomValues(new Uint8Array(4));
+    const reference=Array.from(bytes,b=>b.toString(16).padStart(2,"0")).join("");
+    document.getElementById("footer-reference").textContent=`Reference #18.${reference}`;
+  </script>
+</body>
+</html>
