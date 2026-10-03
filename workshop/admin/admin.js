@@ -1,6 +1,6 @@
 "use strict";
 
-/* A visual honeypot demo. No real authentication, shell, or host filesystem access. */
+
 (() => {
   const $ = (selector, root = document) => root.querySelector(selector);
   const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -17,7 +17,7 @@
   let historyCursor = 0;
   let toastTimer;
 
-  // A salted, deliberately expensive browser-side verifier; this is still not server authentication.
+  
   const credentialSalt = Uint8Array.from("4489a07f14540181711aae411ebe68fb".match(/.{2}/g), byte => parseInt(byte, 16));
   const credentialDigest = "1781cea486925f62550edf4f348439ccc0ac16fa19fc6e6783807b6b58c80b53";
   const digest = async (value) => {
